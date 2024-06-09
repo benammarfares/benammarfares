@@ -40,7 +40,7 @@
 <img align="left" alt="Qt" width="27px" style="padding-right:10px;" src="https://img.shields.io/badge/Qt-%23217346.svg" />
 <img align="left" alt="symfony" width="27px" style="padding-right:10px;" src="https://symfony.com/logos/symfony_black_03.svg" />
 <img align="left" alt="mysql" width="27px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="mongodb" width="27px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
+<img align="left" alt="mongodb" width="22px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
 <img align="left" alt="oracle" width="27px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" />
 <br />
 
