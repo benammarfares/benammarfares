@@ -1,11 +1,13 @@
-# 🏄‍♂️ Forrest Knight
+# 🏄‍♂️ Fares sdk
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Ideal Craftsman (Developer/Creative/Creator)`**
 
  I am Fares, a dedicated individual who firmly believes in the power of discipline to realize my dreams.
                 I am passionate about continuous learning and strive for perfection in all my endeavors.
                  Committed to my goals, I am willing to put in the extra effort, 
                  even sacrificing sleep to ensure that my work reflects the vision I have imagined.
+                <br> - 🔭 I’m currently learning **Nodes js , React Js , Sprint -> Quarkus**
+
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
@@ -33,12 +35,14 @@
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://www.chartjs.org/media/logo-title.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+<img align="left" alt="git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" />
 <img align="left" alt="Qt" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/Qt-%23217346.svg" />
 <img align="left" alt="symfony" width="30px" style="padding-right:10px;" src="https://symfony.com/logos/symfony_black_03.svg" />
-
+<img align="left" alt="mysql" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+ <img align="left" alt="mongodb" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+ <img align="left" alt="oracle" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
 <br />
 
 
