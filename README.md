@@ -1,4 +1,7 @@
-
+#content {
+  @apply w-full md:w-8/12 p-3 py-6 rounded-lg ring-1 ring-green-200 shadow-xl shadow-green-200/20 text-zinc-100;
+  background-color: #18181b; // Change this line to set the background color to #18181b (zinc-800)
+}
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/farou1747) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/faroutiti.benammar/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/fares.ben.ammar/?hl=fr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fares-ben-ammar-14b8b3226/) 
 
