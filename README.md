@@ -6,7 +6,9 @@
                 I am passionate about continuous learning and strive for perfection in all my endeavors.
                  Committed to my goals, I am willing to put in the extra effort, 
                  even sacrificing sleep to ensure that my work reflects the vision I have imagined.
-                <br> - 🔭 I’m currently learning **Nodes js , React Js , Sprint -> Quarkus**
+                <br> - 👩🏻‍💻 I’m currently learning **Nodes js , React Js , Sprint -> Quarkus...**
+                <br> - 👨‍🎓 Studying [IT engineering](https://esprit.tn/) at the University of Esprit, Ariana<br/>
+
    <p align="left">
      <a href="https://www.linkedin.com/in/fares-ben-ammar-14b8b3226/">
                 <img alt="LinkedIn" title="Discord" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
