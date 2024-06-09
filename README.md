@@ -54,7 +54,7 @@
 <!-- BEGIN Portfolio Titi - -->
 <p align="center">
   <img src="https://github.com/benammarfares/benammarfares/assets/99650831/8da7fda4-9f9b-48da-9b85-baea5e944e92" width="500" alt="P1">
- <img src="https://img.shields.io/badge/Portfolio-%23000000.svg">
+ <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
 </p>
 
 <!-- END Portfolio- -->
