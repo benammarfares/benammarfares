@@ -37,6 +37,8 @@
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt="git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" />
+<br>
+
 <img align="left" alt="Qt" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/Qt-%23217346.svg" />
 <img align="left" alt="symfony" width="30px" style="padding-right:10px;" src="https://symfony.com/logos/symfony_black_03.svg" />
 <img align="left" alt="mysql" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
