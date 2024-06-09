@@ -18,6 +18,9 @@
                     <img alt="Discord" title="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a> 
             <a href="https://facebook.com/https://www.facebook.com/faroutiti.benammar/">
                     <img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a> 
+    <a href="mailto:benammar.Fares@esprit.tn">
+    <img alt="Outlook" title="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+</a>
    </p>
 
 ---
